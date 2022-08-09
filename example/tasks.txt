@@ -1,0 +1,23 @@
+passwd root
+hand2022over
+
+passwd scsun
+sc2022sun
+
+passwd mdsspt
+mds2022spt
+
+passwd kbava
+kbava@321
+
+
+04/08	created new lun for precrmcei1 and attached to precrmcei2 to clone data from
+04/08	requested TEP for thomas in JED
+07/08	requested MER to take sec78-7 hardware out
+07/08	created RFC and WP for RDC05 devices maintenance
+07/08	done physical inspection in RDC46 1A D11, D12 and D13 cabinets(RTTS servers)
+07/08	requested CEP to replace Thomas's access card
+07/08	consolidated weekly achievement, updated shared sheet and updtaed over mail.
+07/08	added user config files(.profile, .bashrc to users scsun and mdsspt)
+
+
